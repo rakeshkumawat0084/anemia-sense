@@ -1,0 +1,6 @@
+{
+  "name": "AnemiaSense - AI Anemia Risk Assessment System",
+  "description": "Intelligent healthcare solution for early detection, clinical risk assessment, and dietary management of anemia using machine learning and hematological analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
